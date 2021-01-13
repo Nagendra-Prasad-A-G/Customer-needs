@@ -1,0 +1,7 @@
+@import url('style1.css');
+.wrapper {
+    margin: 0 auto;
+    width: 60%;
+}
+
+/*#success_message{ display: none;}*/

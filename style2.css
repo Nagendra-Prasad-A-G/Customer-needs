@@ -1,0 +1,49 @@
+﻿.wrapper {
+    margin-top:4%;
+}
+.img {
+    width:100%;
+}
+.heading {
+    font-size:26px;
+    font-family:Georgia;
+}
+.heading1 {
+    font-size: 25px;
+    font-family: Georgia;
+    margin-top:6%;
+}
+.inputtxt {
+    padding: 5px;
+    border: 2px solid #5bc0de;
+}
+.btntxt {
+    width:18%;
+}
+.btndiv {
+    margin-top:4%;
+}
+.btnaddtoca {
+    width:30%;
+}
+.btnbuynow {
+    margin-left: 2%;
+    width: 30%;
+}
+.span1 {
+    color: maroon;
+    font-size: 22px;
+    font-family: Georgia;
+}
+.para {
+    color: #404040;
+    font-size: 18px;
+    font-family: Georgia;
+    margin-top: 2%;
+}
+.para1 {
+    color: #5f5f5f;
+    font-size: 15px;
+    font-family: Georgia;
+    margin-top: 2%;
+}

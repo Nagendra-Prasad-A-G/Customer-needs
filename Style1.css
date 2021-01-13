@@ -1,0 +1,31 @@
+﻿body {
+}
+.wrapper {
+    width: 98%;
+    margin: 0 auto;
+}
+.one {
+    border: 1px solid #337ab7;
+    margin-top: 2%;
+    border-radius: 6px;
+}
+.header {
+    background-color: #337ab7;
+    padding: 10px;
+}
+.headerh2 {
+    color: white;
+    font-family: Arial;
+    font-size: 26px;
+}
+.btndiv {
+    margin-top: 1%;
+    padding: 10px;
+}
+.tablediv {
+    margin-top: 1%;
+    padding: 10px;
+}
+table {
+    border: 1px solid lightgrey
+}
